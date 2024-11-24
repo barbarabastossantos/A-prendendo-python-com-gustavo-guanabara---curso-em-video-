@@ -1,0 +1,4 @@
+#DESAFIO 08  Criar um programa de conversor de medidas
+
+m=float(input('=============================\n  Óla! Tudo bem? \n Vamos converter medidas !  \n vamos calcular km , hm, dm , cm, mm \n Para começar digite uma medida em metros : '))
+print(f'=====================================\n CALCULANDO ............ \n ====================================\n  {m} metros  em : \n Quiôlemtros é {m/1000}  km \n Hectometro é {m/100} hm \n Decametro é {m/10} dam \n Decimetro é {m*10} dm \n Centimetro é {m*100}cm \n Milimetro {m*1000} mm \n ==============================================================\n AGRADECEMOS POR ULTILIZAR NOSSOS  SERVIÇOS !!\n =================================================')
