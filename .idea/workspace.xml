@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="desafio da tabuada">
-      <change afterPath="$PROJECT_DIR$/exoo10.py" afterDir="false" />
+    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="convertendo real em dolar">
+      <change afterPath="$PROJECT_DIR$/exoo11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.ex009.executor": "Run",
     "Python.exoo1.executor": "Run",
     "Python.exoo10.executor": "Run",
+    "Python.exoo11.executor": "Run",
     "Python.exoo2.executor": "Run",
     "Python.exoo3.executor": "Run",
     "Python.exoo4.executor": "Run",
@@ -143,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732496692563</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="convertendo real em dola">
+      <option name="closed" value="true" />
+      <created>1732499021918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732499021918</updated>
+    </task>
+    <task id="LOCAL-00009" summary="convertendo real em dolar">
+      <option name="closed" value="true" />
+      <created>1732499061649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732499061649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +178,8 @@
     <MESSAGE value="primeirsa versao" />
     <MESSAGE value="avançando nos estudos de python com os operadores aritmeticos" />
     <MESSAGE value="desafio da tabuada" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio da tabuada" />
+    <MESSAGE value="convertendo real em dola" />
+    <MESSAGE value="convertendo real em dolar" />
+    <option name="LAST_COMMIT_MESSAGE" value="convertendo real em dolar" />
   </component>
 </project>
