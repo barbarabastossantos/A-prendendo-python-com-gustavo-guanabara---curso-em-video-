@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="Pintando parede com tinta Bastos">
-      <change afterPath="$PROJECT_DIR$/ex0012.py" afterDir="false" />
+    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="calculando desconto">
+      <change afterPath="$PROJECT_DIR$/ex0013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex0012.executor": "Run",
+    "Python.ex0013.executor": "Run",
     "Python.ex009.executor": "Run",
     "Python.exoo1.executor": "Run",
     "Python.exoo10.executor": "Run",
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732531122202</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="calculando desconto">
+      <option name="closed" value="true" />
+      <created>1732702966412</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732702966412</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +199,7 @@
     <MESSAGE value="convertendo real em dola" />
     <MESSAGE value="convertendo real em dolar" />
     <MESSAGE value="Pintando parede com tinta Bastos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pintando parede com tinta Bastos" />
+    <MESSAGE value="calculando desconto" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculando desconto" />
   </component>
 </project>
