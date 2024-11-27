@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="calculando desconto">
-      <change afterPath="$PROJECT_DIR$/ex0013.py" afterDir="false" />
+    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="ajustando o salario do funcionario">
+      <change afterPath="$PROJECT_DIR$/exoo14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,30 +50,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex0012.executor": "Run",
-    "Python.ex0013.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.exoo1.executor": "Run",
-    "Python.exoo10.executor": "Run",
-    "Python.exoo11.executor": "Run",
-    "Python.exoo2.executor": "Run",
-    "Python.exoo3.executor": "Run",
-    "Python.exoo4.executor": "Run",
-    "Python.exoo5.executor": "Run",
-    "Python.exoo6.executor": "Run",
-    "Python.exoo7.executor": "Run",
-    "Python.exoo8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex0012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex0013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -178,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732702966412</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ajustando o salario do funcionario">
+      <option name="closed" value="true" />
+      <created>1732704075894</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732704075894</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +208,7 @@
     <MESSAGE value="convertendo real em dolar" />
     <MESSAGE value="Pintando parede com tinta Bastos" />
     <MESSAGE value="calculando desconto" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculando desconto" />
+    <MESSAGE value="ajustando o salario do funcionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustando o salario do funcionario" />
   </component>
 </project>
