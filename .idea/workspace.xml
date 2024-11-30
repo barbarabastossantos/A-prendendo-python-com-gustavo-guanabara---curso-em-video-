@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="Aluguel de carro">
-      <change afterPath="$PROJECT_DIR$/exoo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exoo16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,33 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex0012.executor": "Run",
-    "Python.ex0013.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.exoo1.executor": "Run",
-    "Python.exoo10.executor": "Run",
-    "Python.exoo11.executor": "Run",
-    "Python.exoo14.executor": "Run",
-    "Python.exoo15.executor": "Run",
-    "Python.exoo2.executor": "Run",
-    "Python.exoo3.executor": "Run",
-    "Python.exoo4.executor": "Run",
-    "Python.exoo5.executor": "Run",
-    "Python.exoo6.executor": "Run",
-    "Python.exoo7.executor": "Run",
-    "Python.exoo8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex0012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex0013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exoo8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
