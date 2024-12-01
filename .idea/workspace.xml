@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="usando a função TRUNC">
-      <change afterPath="$PROJECT_DIR$/EXOO17.py" afterDir="false" />
+    <list default="true" id="63fc7c4a-ad81-4346-9e5c-c292bf2c6a78" name="Changes" comment="usando a função RANDOM">
+      <change afterPath="$PROJECT_DIR$/exo18.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exoo18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,34 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex0012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex0013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exoo8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EXOO17.executor": "Run",
+    "Python.ex0012.executor": "Run",
+    "Python.ex0013.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.exoo1.executor": "Run",
+    "Python.exoo10.executor": "Run",
+    "Python.exoo11.executor": "Run",
+    "Python.exoo14.executor": "Run",
+    "Python.exoo15.executor": "Run",
+    "Python.exoo16.executor": "Run",
+    "Python.exoo18.executor": "Run",
+    "Python.exoo2.executor": "Run",
+    "Python.exoo3.executor": "Run",
+    "Python.exoo4.executor": "Run",
+    "Python.exoo5.executor": "Run",
+    "Python.exoo6.executor": "Run",
+    "Python.exoo7.executor": "Run",
+    "Python.exoo8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ADM/PycharmProjects/pythonProject1",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADM\PycharmProjects\pythonProject1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -206,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733004542056</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="usando a função RANDOM">
+      <option name="closed" value="true" />
+      <created>1733016056503</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733016056503</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +248,7 @@
     <MESSAGE value="ajustando o salario do funcionario" />
     <MESSAGE value="Aluguel de carro" />
     <MESSAGE value="usando a função TRUNC" />
-    <option name="LAST_COMMIT_MESSAGE" value="usando a função TRUNC" />
+    <MESSAGE value="usando a função RANDOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="usando a função RANDOM" />
   </component>
 </project>
